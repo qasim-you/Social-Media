@@ -1,0 +1,21 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+.margin{
+    padding-left: 10px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.width{
+    width: 100px;
+    height: 200px;
+}
+.sidebar{
+    
+    overflow-y: scroll;
+    top: 0;
+    bottom: 0;
+    min-height: 100%;
+}
