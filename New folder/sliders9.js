@@ -94,7 +94,7 @@ var timestamp = function() {
       // Story item (First way)
       Zuck.buildTimelineItem(
         "user-5",
-        "assets/images/post/1by1/06.jpg",
+        "./Images/clAA.jpg",
         "Awais Developer",
         "",
         timestamp(),
