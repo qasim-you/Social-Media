@@ -1,8 +1,7 @@
 /**
 * Social - Network, Community and Event Theme
 *
-* @author Webestica (https://www.webestica.com/)
-* @version 1.1.0
+
 **/
 
 
